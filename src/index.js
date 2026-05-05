@@ -383,5 +383,3 @@ const forms = plugin.withOptions(function (
 })
 
 module.exports = forms
-module.exports.__esModule = true
-module.exports.default = forms
